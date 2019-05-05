@@ -8,7 +8,6 @@
 This is an unofficial Python implementation of the Nobel Prize winning algorithm used to match Canadian medical school graduates to residency positions.
 
 ## Prerequisites
-
 This is largely standalone, the only requirement being python 3 and pandas to manage the csv rank order lists.
 
 
@@ -16,8 +15,6 @@ This is largely standalone, the only requirement being python 3 and pandas to ma
 pip install pandas
 
 ```
-
-## Example
 
 The test case here is based on the [Carms guide](https://www.carms.ca/the-match/how-it-works/) to the matching algorithm. Print statement have been included as comments if you wish to run a "loud" version of the matching in order to show the search and recursive replacements as they happen.
 
